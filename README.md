@@ -175,4 +175,4 @@ npm run start    # run built app
 
 ## Credits
 
-Built by **Faruk** with a lot of grit and some nerdy guidance. 🛠️
+Built by **Faruk**. 🛠️
